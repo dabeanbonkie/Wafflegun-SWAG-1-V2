@@ -9,6 +9,8 @@ It should look like this is JLCPCB:
 
 <img width="1012" height="322" alt="image" src="https://github.com/user-attachments/assets/b144273d-753d-418d-8658-8f7b5defc039" />
 
+Note: I will be refering to the side of the pcb with the letters as the top and from there i call the other sides left, right and bottom. This is also diferent from the side of the pcb as in the working layer.
+
 When the pcb arrives grab a BD139 NPN-transistor and place it in the holes near the left side if the pcb with the white part facing towards the inside of the pcb (pictued in example 1). Then Solder the legs of the transistor to the pcb from the bottom side while making sure no bridges are made (pictured in example 2). Then cut off the legs until the point they are soldered at (pictured in example 3)
 
 Example 1:
@@ -34,7 +36,7 @@ Example 5:
 
 <img width="443" height="477" alt="image" src="https://github.com/user-attachments/assets/65f53e8a-bd30-4a07-b72f-07276d95e908" />
 
-Now here comes the hard part, were using a tiny 15K ohm SMD-0402 resistor. For the next two solders we will be using solder paste as its really the only way to get a solder this precise. I would also recomend using a magnfying glass at this point as this resistor is very small. Place two small bits of solder paste on the two pads on which we will solder the resistor (pictured in example 6). Then incredibly gently place the resistor on the two pads with the resistors black side facing up and use a heat gun to carefully melt the solder while making sure not to stay in one place too long as not to melt the pcb. The final result should look like example 7.
+Now here comes the hard part, were using a tiny 1.5K ohm SMD-0402 resistor. For the next two solders we will be using solder paste as its really the only way to get a solder this precise. I would also recomend using a magnfying glass at this point as this resistor is very small. Place two small bits of solder paste on the two pads on which we will solder the resistor (pictured in example 6). Then incredibly gently place the resistor on the two pads with the resistors black side facing up and use a heat gun to carefully melt the solder while making sure not to stay in one place too long as not to melt the pcb. The final result should look like example 7.
 
 Example 6:
 
@@ -52,10 +54,10 @@ Example 8:
 
 Example 9:
 
-
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/b47ce839-1b3e-410f-8f7a-b444575a53ca" />
 
 You are now done with making the PCB for S.W.A.G-1
 
 Kicad wiring schematic:
 
-<img width="775" height="690" alt="image" src="https://github.com/user-attachments/assets/ad9b5f81-0a22-448d-8880-519c2a328dae" />
+
