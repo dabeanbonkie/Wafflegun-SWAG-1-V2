@@ -51,7 +51,7 @@ Lastly grab your solder paste again, and place a small glob on each of the solde
 Example 8:
 
 <img width="545" height="518" alt="image" src="https://github.com/user-attachments/assets/10842b48-459c-46e0-ae73-60ea2fa68ee2" />
-
+ELFR1021
 Example 9:
 
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/b47ce839-1b3e-410f-8f7a-b444575a53ca" />
@@ -68,9 +68,16 @@ Kicad wiring schematic of the full circuit:
 
 To build the rest of the cuircuit start by grabbing your ELFR1021 DC high speed motors and cutting off the connector that is attached. After this crimp a dupont header on each wire of both of the motors. If you have used Female headers on the pcb, use male headers on the motors. If you have used male headers (like me) on the pcb use female headers on the motors. 
 
-it should look like this:
+It should look like this:
 
 <img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/5cff2bb6-a3b1-467e-80d2-e368698c38f6" />
+
+After this attach red wire of both motors to the pinheaders group 5 on the pcb, and the black wires to the pinheader group 3 on the pcb.
+
+It should look like this:
+
+<img width="446" height="222" alt="image" src="https://github.com/user-attachments/assets/a3dc865a-10f5-4fb4-a79e-1119bddd168c" />
+
 
 
 
