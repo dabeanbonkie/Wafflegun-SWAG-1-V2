@@ -78,6 +78,13 @@ It should look like this:
 
 <img width="446" height="222" alt="image" src="https://github.com/user-attachments/assets/a3dc865a-10f5-4fb4-a79e-1119bddd168c" />
 
+Next take your SG90 servo and attach it to pinheader group 2 on the pcb with the brown wire of the servo (GND wire) being attached to the right-sided pin on pinheader group 2. If the brown wire is on the right pin, the red and yellow wire are too.
+
+It should look like this:
+
+<img width="451" height="367" alt="image" src="https://github.com/user-attachments/assets/0404f6f7-08d6-4042-ad3d-2c8efc86fa74" />
+
+
 
 
 
