@@ -60,4 +60,7 @@ You are now done with making the PCB for S.W.A.G-1
 
 Kicad wiring schematic:
 
+<img width="1096" height="561" alt="image" src="https://github.com/user-attachments/assets/b55f7ca6-2ae4-4be0-a16a-2104c1036110" />
+
+
 
