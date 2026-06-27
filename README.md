@@ -185,20 +185,57 @@ Next add the battery on top of the pcb holder.
 
 <img width="427" height="559" alt="image" src="https://github.com/user-attachments/assets/a17276e5-cb5f-44e8-a067-dc6528c3c990" />
 
+After this add the motors under the extention on the gear and wheel supports, it should be a snug fit. Also remember to make sure the connector from gear 1 and the connector on the motor line up
 
- 
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/3e1ca4f6-aaa1-46f0-be06-13a2803358b3" />
 
+Do the same on the other gear and wheel support.
 
+Now add the 65mm rubber wheels to the "gear B" gears on both supports. It should be a snug fit.
 
+<img width="427" height="559" alt="image" src="https://github.com/user-attachments/assets/ef9b2806-69cd-476c-b5dd-0ce77053b6fc" />
 
+Then its time to add the shells. Grab shell 1 and 2 and attach them to the barrel with them also snugly fitting around the support pieces. I will add three angles cause this can be really tricky:
 
+<img width="854" height="778" alt="image" src="https://github.com/user-attachments/assets/e93e41ab-4d70-485d-8a49-b9f5d7d2d4a9" />
 
+<img width="854" height="778" alt="image" src="https://github.com/user-attachments/assets/785c3ed4-ea39-4bf6-9b39-5faa7c0d1165" />
 
+<img width="854" height="778" alt="image" src="https://github.com/user-attachments/assets/2ea751a7-d414-4677-b94f-16eab47b525a" />
 
+Next up its time for the waffle magazine piece, i recomend laying the wafflegun on its side for this portion as the glue will dry easier without it falling if its on its side. So start off by finding the hole that the magazine attaches to and putting some plastic glue on the edges before placing on the magazine making sure that the holes are alligned on both.
 
+This is where the hole for the magazine is:
 
+<img width="854" height="778" alt="image" src="https://github.com/user-attachments/assets/c2443c82-1d81-4bca-a318-9b3112eed5f4" />
 
+this is how to place it:
 
+<img width="930" height="584" alt="image" src="https://github.com/user-attachments/assets/828f6d54-19f7-47ed-a234-77a35c374777" />
+
+After this its time to add the servo holder. Keep the wafflegun on its side for this part. This part has to attach right next to the the magazine. Using plastic glue, glue this part to Shell-2 as that is where the part has the largest surface area of contact.
+
+<img width="930" height="584" alt="image" src="https://github.com/user-attachments/assets/797aa6ab-0e4d-4328-a7d3-72e05c1d100a" />
+
+Next up place the servo inside the servo holder, i have no physical images for this so ill try to explain how to place it. Place the servo inside the holder while making sure the wires at the back of the servo are facing the hole next to the hole for the waffle magazine.
+
+This is the hole to put all the wires for the servo through:
+
+<img width="930" height="584" alt="image" src="https://github.com/user-attachments/assets/80669346-274e-4f45-8bc9-fd75c9f6cb89" />
+
+Then take the wires and push them through the barrel towards the pcb, where you can connect it to the coresponding pins. The Arm of the servo should fit into the hole in the magazine itself
+
+This is the hole the servo arm goes through:
+
+<img width="930" height="584" alt="image" src="https://github.com/user-attachments/assets/80b3197c-f3e7-4001-b6b7-3e69047a3e17" />
+
+The servo arm can then push stroopwafels into the barrel as another falls into place to replace the one thats been loaded, thus making the autoloading work.
+
+The last piece of the puzzle is the waffle pusher, which pushes the stroopwafel to the drive tires that it gets shot from. To place it go to the side opposite of the waffle magazine  and push the long pusher piece into the hole with the tail of the piece leading to the grip and stock so you can push the waffles from where you hand is holding the S.W.A.G-1.
+
+<img width="930" height="584" alt="image" src="https://github.com/user-attachments/assets/bb4d8f01-ea8f-4568-8191-61dbdbb3e552" />
+
+And now you are (finally) done with building S.W.A.G-1
 
 
 
