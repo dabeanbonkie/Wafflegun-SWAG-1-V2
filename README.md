@@ -137,5 +137,29 @@ Then add gear 5 beside gear 4:
 
 <img width="432" height="186" alt="image" src="https://github.com/user-attachments/assets/fa48fac4-5f4d-4916-b255-7762e9e4198c" />
 
+Then add gear A beside gear 5:
+
+<img width="436" height="123" alt="image" src="https://github.com/user-attachments/assets/c43f767c-b962-4b60-8edd-f8c14ff4da79" />
+
+Then add gear B beside gear A:
+
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/aa87b6ec-8554-4f73-814c-a082f3509ebc" />
+
+Now repeat this exactly on the other support.
+
+Next up, use Plastic glue to glue together barrel 1 and barrel 2. You can use glue here as these pieces never need to be seperated and are only seperate for easy of printing.
+
+It should look roughly like this:
+
+<img width="1014" height="368" alt="image" src="https://github.com/user-attachments/assets/0ef68fd7-b886-40d4-bf33-c46983b3529d" />
+
+
+
+
+
+
+
+
+
 
 
