@@ -96,5 +96,17 @@ Following this i dont have a good physical example for the buttons. In the wirin
 
 If you do all of this you can switch between turning on the servo, turning on the motor & having both off.
 
-Next up take your 4*AA battery holder and attach it to
+Next up take your 4*AA battery holder and if necessary crimp on female dupont headers to both wires if you have male headers on your pcb and male headers to both wires if you have female headers on your pcb.
+
+It should look like this:
+<img width="427" height="458" alt="image" src="https://github.com/user-attachments/assets/a589a4da-e58c-4911-bbf6-26b607fac032" />
+
+Then attach the red wire to specifically the right-sided pin on pin header ground 1 on the pcb, and the black wire to the lift sided pin  on pin header ground 1 on the pcb.
+
+It should look like this:
+
+<img width="427" height="458" alt="image" src="https://github.com/user-attachments/assets/fca0a492-b0cc-4d62-bb90-e92798da3461" />
+
+With this all the wiring is done! Now on to the 3D-printed parts.
+
 
