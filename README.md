@@ -58,9 +58,20 @@ Example 9:
 
 You are now done with making the PCB for S.W.A.G-1
 
-Kicad wiring schematic:
+Kicad wiring schematic of the pcb:
+
+<img width="894" height="456" alt="image" src="https://github.com/user-attachments/assets/28aee72e-5bb3-4bb5-9584-96d43ded699e" />
+
+Kicad wiring schematic of the full circuit:
 
 <img width="1096" height="561" alt="image" src="https://github.com/user-attachments/assets/b55f7ca6-2ae4-4be0-a16a-2104c1036110" />
+
+To build the rest of the cuircuit start by grabbing your ELFR1021 DC high speed motors and cutting off the connector that is attached. After this crimp a dupont header on each wire of both of the motors. If you have used Female headers on the pcb, use male headers on the motors. If you have used male headers (like me) on the pcb use female headers on the motors. 
+
+it should look like this:
+
+<img width="1152" height="2048" alt="image" src="https://github.com/user-attachments/assets/5cff2bb6-a3b1-467e-80d2-e368698c38f6" />
+
 
 
 
