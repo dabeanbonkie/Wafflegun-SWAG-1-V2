@@ -26,9 +26,33 @@ Example 3:
 
 Next grab all your curved pin headers, I used male dupont surved pin headers in my example because those were the ones i had, but i would recomend using female dupont curved pin headers. Both are fine so use whichever one you have but if you have to order them, order the female headers. You should have 3: 1 * 2 headers and 2: 1 * 3 headers. Put each of the pin headers in the hole that corresponds to the width (pictured in example 4). Then as with the transistor, solder each pin from the bottom side to the pcb (pictured in example 5).
 
+Example 4:
+
+<img width="437" height="198" alt="image" src="https://github.com/user-attachments/assets/7eea082f-64b1-4733-88d5-0d7a1c3effb6" />
+
+Example 5:
+
+<img width="443" height="477" alt="image" src="https://github.com/user-attachments/assets/65f53e8a-bd30-4a07-b72f-07276d95e908" />
+
 Now here comes the hard part, were using a tiny 15K ohm SMD-0402 resistor. For the next two solders we will be using solder paste as its really the only way to get a solder this precise. I would also recomend using a magnfying glass at this point as this resistor is very small. Place two small bits of solder paste on the two pads on which we will solder the resistor (pictured in example 6). Then incredibly gently place the resistor on the two pads with the resistors black side facing up and use a heat gun to carefully melt the solder while making sure not to stay in one place too long as not to melt the pcb. The final result should look like example 7.
 
+Example 6:
+
+<img width="333" height="252" alt="image" src="https://github.com/user-attachments/assets/f2b29d61-1ec7-4195-a458-d407c6de59ad" />
+
+Example 7:
+
+<img width="443" height="438" alt="image" src="https://github.com/user-attachments/assets/ec98a3e2-25cd-49ac-9724-0b421852060c" />
+
 Lastly grab your solder paste again, and place a small glob on each of the solder pads for XIAO RP2040 (pictured in example 8). Then carefully place the XIAO RP2040 on top of the pads making sure each connection lines up with the micro-usb port facing towards the right side of the pcb (pictured in example 9). Then gently move the heatgun over the pcb to melt the solder while making sure not to melt the pcb or any other nearby components. The final result should look like example 9.
+
+Example 8:
+
+<img width="545" height="518" alt="image" src="https://github.com/user-attachments/assets/10842b48-459c-46e0-ae73-60ea2fa68ee2" />
+
+Example 9:
+
+
 
 You are now done with making the PCB for S.W.A.G-1
 
