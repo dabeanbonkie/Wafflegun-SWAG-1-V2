@@ -165,6 +165,33 @@ Next grab Support piece 2 with the stock attached, and slide it through the bott
 
 <img width="829" height="384" alt="image" src="https://github.com/user-attachments/assets/509202bc-2196-4d35-a16f-306fe8a4683c" />
 
+Then grab Support piece 1 and do the same as with support piece 2, exept this time on the top square hole and without the stock.
+
+<img width="829" height="384" alt="image" src="https://github.com/user-attachments/assets/4b2e29d1-56fc-460d-8299-e5105578ed57" />
+
+Following this add the PCB and Battery holder to the back of the barrel, glue is optional, you could add it if it falls off but if placed right it should fit nice and snug. For this i will again add two angles for clarity:
+
+<img width="609" height="263" alt="image" src="https://github.com/user-attachments/assets/da99488b-5c25-4ee5-b1b4-18e80a28d418" />
+
+<img width="834" height="433" alt="image" src="https://github.com/user-attachments/assets/0ae5caf9-7d63-4b37-a18d-4f3b59e8fd4f" />
+
+The next step is adding the actual electronics. First take the pcb and add it to the pcb holder (i left my battery unconnected cause its more dificult to add the pcb to the holder with the battery attached):
+
+it should look like this:
+
+<img width="427" height="559" alt="image" src="https://github.com/user-attachments/assets/e272b88d-e995-4630-b8a9-6d45d26c87de" />
+
+Next add the battery on top of the pcb holder. 
+
+<img width="427" height="559" alt="image" src="https://github.com/user-attachments/assets/a17276e5-cb5f-44e8-a067-dc6528c3c990" />
+
+
+ 
+
+
+
+
+
 
 
 
