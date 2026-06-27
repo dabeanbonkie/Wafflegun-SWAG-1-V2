@@ -84,8 +84,17 @@ It should look like this:
 
 <img width="451" height="367" alt="image" src="https://github.com/user-attachments/assets/0404f6f7-08d6-4042-ad3d-2c8efc86fa74" />
 
+Following this i dont have a good physical example for the buttons. In the wiring diagram i show a SW-SP3T three way switch where one position is floating so no signal goes through the buttons meaning no part is turned on, and the other two positions going to either the motor or the servo so you can toggle the motor and servo separately. I do not have an SW_SP3T available due to a shipping error so the best i can do is show how to connect it. 
 
+-First connect the right pin on pin header group 4 to the COM Pin ( also knows as the common pin and pin 3 on the wiring diagram showed earlier.). The brown wire is the wire you would connect to the common pin of the SW_SP3T.
 
+<img width="461" height="420" alt="image" src="https://github.com/user-attachments/assets/006e4a92-01bd-49fd-902c-f1032e136aa0" />
 
+-Then connect output 1 on the SW-SP3T to the middle pin on pinheader group 4 on the pcb and connect output 2 on the SW-SP3T to the left pin on pinheader group 4 on the pcb.
 
+-Ouput 3 will be left floating as that will be the "off" pin so it has no output.
+
+If you do all of this you can switch between turning on the servo, turning on the motor & having both off.
+
+Next up take your 4*AA battery holder and attach it to
 
