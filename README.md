@@ -111,10 +111,31 @@ With this all the wiring is done! Now on to the 3D-printed parts.
 
 Start by printing all of the pieces in the STL files folder. The gear pieces need to be printed twice but all of the other pieces need to be printed only once.
 
-Start by grabbing both "gear and wheel support" pieces and add 7 bearings with a 6mm inner diameter and a 13mm outer diameter. Make sure to leave one hole on the far side with the extention empty as that one wont hold a gear.
+Start by grabbing both "gear and wheel support" pieces and add 7 bearings with a 6mm inner diameter and a 13mm outer diameter to each support. Make sure to leave one hole on the far side with the extention empty as that one wont hold a gear.
 
 It should look like this:
+
 <img width="589" height="81" alt="image" src="https://github.com/user-attachments/assets/d2372a57-cb13-4109-8b53-55b8f8a3c412" />
+
+After that start adding your gears. Start by adding gear 1 to the first bearing from the side with the extention. Make sure to add the bearing to the flat side of the support, otherwise it will not fit.
+
+<img width="447" height="250" alt="image" src="https://github.com/user-attachments/assets/80786f62-9313-4749-8b23-8321a8ae703e" />
+
+After this add gear 2 to the bearing beside gear 1:
+
+<img width="447" height="250" alt="image" src="https://github.com/user-attachments/assets/3340227a-1f83-4842-a369-4936a9d987f4" />
+
+Then add gear 3 beside gear 2:
+
+<img width="447" height="250" alt="image" src="https://github.com/user-attachments/assets/aa4e98b1-fdac-4570-80cd-a52140419d1b" />
+
+Then add gear 4 beside gear 3:
+
+<img width="447" height="250" alt="image" src="https://github.com/user-attachments/assets/5236c6f2-9ba6-4299-901b-21ec439f317b" />
+
+Then add gear 5 beside gear 4:
+
+<img width="432" height="186" alt="image" src="https://github.com/user-attachments/assets/fa48fac4-5f4d-4916-b255-7762e9e4198c" />
 
 
 
