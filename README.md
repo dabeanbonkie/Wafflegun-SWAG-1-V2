@@ -153,6 +153,23 @@ It should look roughly like this:
 
 <img width="1014" height="368" alt="image" src="https://github.com/user-attachments/assets/0ef68fd7-b886-40d4-bf33-c46983b3529d" />
 
+After this glue on the two gear and wheel support pieces making it so the side with the extention on the supports is on the wide side of the barrel with the lip. If that doesnt make sense i understand so ill show two angles of this step:
+
+<img width="1021" height="525" alt="image" src="https://github.com/user-attachments/assets/b99c6ac5-ed01-4a2f-a7b9-9a84b70b59c5" />
+
+<img width="753" height="574" alt="image" src="https://github.com/user-attachments/assets/d623d520-3222-45e3-bf59-11343ee00b65" />
+
+Next grab Support piece 2 with the stock attached, and slide it through the bottom square hole of the barrel. No glue required as this part might need to be seperated for maintenence. For this step i will also add 2 angles:
+
+<img width="886" height="562" alt="image" src="https://github.com/user-attachments/assets/76cf4572-82e9-4ac7-841b-97bda35067f0" />
+
+<img width="829" height="384" alt="image" src="https://github.com/user-attachments/assets/509202bc-2196-4d35-a16f-306fe8a4683c" />
+
+
+
+
+
+
 
 
 
