@@ -9,18 +9,28 @@ It should look like this is JLCPCB:
 
 <img width="1012" height="322" alt="image" src="https://github.com/user-attachments/assets/b144273d-753d-418d-8658-8f7b5defc039" />
 
-When the pcb arrives grab a BD139 NPN-transistor and place it in the holes near the bottom if the pcb with the white part facing towards the inside of the pcb (pictued in example 1). Then Solder the legs of the transistor to the pcb from the bottom side while making sure no bridges are made (pictured in example 2). Then cut off the legs until the point they are soldered at (pictured in example 3)
+When the pcb arrives grab a BD139 NPN-transistor and place it in the holes near the left side if the pcb with the white part facing towards the inside of the pcb (pictued in example 1). Then Solder the legs of the transistor to the pcb from the bottom side while making sure no bridges are made (pictured in example 2). Then cut off the legs until the point they are soldered at (pictured in example 3)
 
 Example 1:
 
 <img width="857" height="700" alt="image" src="https://github.com/user-attachments/assets/4c17a8bc-8583-4a21-9643-d125d0b09185" />
 
+Example 2:
+
+<img width="437" height="296" alt="image" src="https://github.com/user-attachments/assets/13a03622-fdef-4c62-b3d2-20c1d83505d4" />
+
+Example 3:
+
+<img width="315" height="135" alt="image" src="https://github.com/user-attachments/assets/6aa0c3cf-ff73-46a8-a697-a9236c12ab22" />
+
+
 Next grab all your curved pin headers, I used male dupont surved pin headers in my example because those were the ones i had, but i would recomend using female dupont curved pin headers. Both are fine so use whichever one you have but if you have to order them, order the female headers. You should have 3: 1 * 2 headers and 2: 1 * 3 headers. Put each of the pin headers in the hole that corresponds to the width (pictured in example 4). Then as with the transistor, solder each pin from the bottom side to the pcb (pictured in example 5).
 
 Now here comes the hard part, were using a tiny 15K ohm SMD-0402 resistor. For the next two solders we will be using solder paste as its really the only way to get a solder this precise. I would also recomend using a magnfying glass at this point as this resistor is very small. Place two small bits of solder paste on the two pads on which we will solder the resistor (pictured in example 6). Then incredibly gently place the resistor on the two pads with the resistors black side facing up and use a heat gun to carefully melt the solder while making sure not to stay in one place too long as not to melt the pcb. The final result should look like example 7.
 
-Next grab 
+Lastly grab your solder paste again, and place a small glob on each of the solder pads for XIAO RP2040 (pictured in example 8). Then carefully place the XIAO RP2040 on top of the pads making sure each connection lines up with the micro-usb port facing towards the right side of the pcb (pictured in example 9). Then gently move the heatgun over the pcb to melt the solder while making sure not to melt the pcb or any other nearby components. The final result should look like example 9.
 
+You are now done with making the PCB for S.W.A.G-1
 
 Kicad wiring schematic:
 
