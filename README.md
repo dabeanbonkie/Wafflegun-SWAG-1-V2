@@ -109,4 +109,12 @@ It should look like this:
 
 With this all the wiring is done! Now on to the 3D-printed parts.
 
+Start by printing all of the pieces in the STL files folder. The gear pieces need to be printed twice but all of the other pieces need to be printed only once.
+
+Start by grabbing both "gear and wheel support" pieces and add 7 bearings with a 6mm inner diameter and a 13mm outer diameter. Make sure to leave one hole on the far side with the extention empty as that one wont hold a gear.
+
+It should look like this:
+<img width="589" height="81" alt="image" src="https://github.com/user-attachments/assets/d2372a57-cb13-4109-8b53-55b8f8a3c412" />
+
+
 
