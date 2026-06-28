@@ -237,9 +237,11 @@ The last piece of the puzzle is the waffle pusher, which pushes the stroopwafel 
 
 And now you are (finally) done with building S.W.A.G-1
 
-Onshape Link for the shell:
+# Onshape Link for the shell:
 
 https://cad.onshape.com/documents/747ccfec51634792c2777cca/w/01fb49ed376507a91ea61a49/e/87ecc3b4d7d030e5be71dfa8
+
+
 
 
 
