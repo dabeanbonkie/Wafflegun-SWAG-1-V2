@@ -1,4 +1,7 @@
 # Wafflegun-SWAG-1
+
+<img width="1410" height="2000" alt="S W A G-1" src="https://github.com/user-attachments/assets/c33f0f54-535d-4e2b-99fc-bd4901a7d100" />
+
 # Description
 The S.W.A.G (Stroop-Wafel-Assault-Gun) is the latest generation of food based arms. It is a tire driven stroopwafel launcher with an auto loading system. It uses two motors for the launch and a servo for the loader and runs on a Xiao RP2040. The wafflegun can be used to hand out stroopwafels to an entire group from a distance within the span of just a couple seconds.
 
